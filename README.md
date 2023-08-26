@@ -1,8 +1,5 @@
 ### Hi there welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working in the fintech domain. Previously, I have worked in last-mile logistics, supply-chain, B2B & B2C e-commerce, mobility, etc.
-- 📫 How to reach me: ..
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ddak)](https://git.io/streak-stats)
 
 <!--
